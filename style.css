@@ -1,0 +1,137 @@
+body{
+    background-color:#DCDCDC!important;
+}
+.bg-light{
+    background-color:#30475e;
+}
+.mt-5,
+.my-5 {
+  margin-top: 0rem !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: hsla(0,0%,100%,.8) !important;
+  }
+  .mb-5,
+.my-5 {
+  margin-bottom: 5px !important;
+}
+.card-title {
+  margin-bottom: none;
+}
+.card-text{
+  font-size: 13px;
+}
+.btn-primary {
+  margin-top: 10px;
+  color: #007b77;
+  border-color: #007bff;
+}
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.main{
+  width: 100%;
+}
+#produkt{
+  float: left;
+  width: 24.7%;
+}
+
+.card img{
+ padding: 10px;
+ width:190px;
+ height: 190px;
+}
+ul{
+  margin-left: 80px;
+}
+
+
+.fund{
+  text-align: center;
+  background-color: brown;
+}
+#fund2{
+width:33%;
+float: left;
+ 
+}
+#fund22{
+  width:33%;
+  float: left;
+}
+
+#fund22 h1,span{
+  font-size: 20px;
+  color: #aaa
+}
+#ora{ 
+  width: 60px;
+  height: 60px;
+ margin-top: 10PX;
+ }
+#kerri{
+  width: 90px;
+  height: 60px;
+ float: left;
+ margin-top: 5px;
+ margin-right: 10px;
+}
+#fund2 h1,span{
+font-size: 20px;
+color: #aaa
+}
+
+#fund1{
+  border-bottom: 1px solid black;
+  height:75px ;
+}
+#fund23{
+  width:33%;
+  float: left;
+  margin-left: 10px;
+}
+#fund23 h1,span{
+  font-size: 15px;
+  color: #aaa;
+}
+.fund p{
+  color: #aaa;
+  margin-left: 50px;
+}
+.fund img{
+  width: 100px;
+  height: 50px;
+}
+#img{
+  width: 50px;
+  height: 50px;
+}
+#fundii{
+  margin-top: 30px;
+  text-align: center; 
+  color: lightgray;
+}
+.dropdown-item{
+  background-color:#30475e; 
+  color: white;
+}
+.dropdown-menu{
+  background-color:#30475e; 
+
+}
+
+.container,
+.container-fluid,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
